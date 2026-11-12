@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.blockglade.game",
+    "sha256_cert_fingerprints": ["DB:A9:46:35:7C:C9:32:2F:E3:30:11:31:A6:43:A4:5B:07:4B:6C:90:06:C8:C5:D0:BC:EE:F6:1B:D8:B7:CE:19"]
+  }
+}]

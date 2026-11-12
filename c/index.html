@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Beat my score · Block Glade</title>
+<meta name="description" content="A friend challenged you to beat their score in Block Glade: Prism Puzzle, a calm 8×8 block puzzle for Android.">
+<meta property="og:title" content="Can you beat my score in Block Glade?">
+<meta property="og:description" content="A calm 8×8 block puzzle. Tap to take the challenge.">
+<meta property="og:image" content="https://krishnagantedi.github.io/img/feature.png">
+<meta name="theme-color" content="#0e211d">
+<link rel="icon" href="../img/icon.png">
+<style>
+:root{--bg:#0e211d;--bg2:#1d3a31;--fg:#eef5f0;--dim:#b8ccc4;--gold:#f4b860;--gold2:#ffe2a8;--petal:#f39ab8;--line:rgba(238,245,240,.14)}
+*{box-sizing:border-box}
+html,body{min-height:100%}
+body{margin:0;background:radial-gradient(ellipse at 50% 0%,#2f5a42 0%,var(--bg2) 42%,var(--bg) 100%) fixed var(--bg);color:var(--fg);font:16px/1.55 "Avenir Next","Segoe UI",system-ui,sans-serif;padding:max(32px,env(safe-area-inset-top)) max(16px,env(safe-area-inset-right)) 40px max(16px,env(safe-area-inset-left));display:flex;justify-content:center}
+main{width:100%;max-width:420px;display:flex;flex-direction:column;align-items:center;gap:18px;text-align:center}
+.icon{width:96px;height:96px;border-radius:24px;box-shadow:0 14px 34px rgba(0,0,0,.45)}
+.kicker{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold)}
+h1{font:700 26px/1.2 Georgia,"Times New Roman",serif;margin:0;text-wrap:balance}
+.score{font:900 64px/1 Georgia,serif;background:linear-gradient(180deg,#fff 15%,var(--gold2) 60%,var(--gold));-webkit-background-clip:text;background-clip:text;color:transparent;font-variant-numeric:lining-nums}
+p{margin:0;color:var(--dim)}
+.btn{display:block;width:100%;padding:16px;border-radius:16px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;font-size:15px}
+.primary{background:linear-gradient(180deg,#ffe3ad,var(--gold) 60%,#e3a04a);color:#0a1714;box-shadow:0 12px 30px -12px var(--gold)}
+.ghost{border:1px solid var(--line);color:var(--fg);background:rgba(255,255,255,.05)}
+.note{font-size:13px}
+footer{margin-top:16px;font-size:13px;color:var(--dim)}
+footer a{color:var(--gold)}
+</style>
+</head>
+<body>
+<main>
+  <img class="icon" src="../img/icon.png" alt="Block Glade icon">
+  <div class="kicker">Beat my score</div>
+  <h1 id="who">A friend challenges you</h1>
+  <div class="score" id="score" hidden></div>
+  <p id="txt">Beat their score in one Classic run of Block Glade, a calm 8×8 block puzzle.</p>
+  <a class="btn primary" id="open" href="https://play.google.com/store/apps/details?id=com.blockglade.game">Take the challenge</a>
+  <a class="btn ghost" id="store" href="https://play.google.com/store/apps/details?id=com.blockglade.game">Get it on Google Play</a>
+  <p class="note">Already have the game? "Take the challenge" opens it. If not, install it from Google Play and the challenge will be waiting when you open it.</p>
+  <footer><a href="../">Block Glade Studio</a> · <a href="../privacy.html">Privacy</a></footer>
+</main>
+<script>
+(function () {
+  var q = new URLSearchParams(location.search), s = Math.floor(+q.get('s')), n = (q.get('n') || '').replace(/[<>"'&]/g, '').trim().slice(0, 16);
+  var pkg = 'com.blockglade.game', store = 'https://play.google.com/store/apps/details?id=' + pkg;
+  if (s >= 1 && s <= 9999999) {
+    document.getElementById('who').textContent = (n || 'A friend') + ' challenges you';
+    var el = document.getElementById('score'); el.hidden = false; el.textContent = s.toLocaleString('en-US');
+    document.title = 'Beat ' + s.toLocaleString('en-US') + ' · Block Glade';
+    var ref = 'c_s=' + s + (n ? '&c_n=' + encodeURIComponent(n) : ''), qs = 's=' + s + (n ? '&n=' + encodeURIComponent(n) : '');
+    store += '&referrer=' + encodeURIComponent(ref);
+    var android = /Android/i.test(navigator.userAgent);
+    document.getElementById('open').href = android ? 'intent://challenge?' + qs + '#Intent;scheme=blockglade;package=' + pkg + ';S.browser_fallback_url=' + encodeURIComponent(store) + ';end' : store;
+  } else {
+    document.getElementById('txt').textContent = 'Block Glade is a calm 8×8 block puzzle with a 100-level Adventure, a Daily Mystery board and a garden to grow.';
+    document.getElementById('open').textContent = 'Get the game';
+  }
+  document.getElementById('store').href = store;
+})();
+</script>
+</body>
+</html>
