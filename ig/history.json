@@ -1,5 +1,5 @@
 {
- "note": "Used headlines, meme lines and caption openers. The daily producer appends to this so jokes and headlines are never repeated.",
+ "note": "Used hooks and jokes. The nightly producer appends to \"reels\" so hooks and jokes are never repeated. \"days\" holds the image posts used until 18 Nov.",
  "days": {
   "2026-11-17": {
    "headlines": [
@@ -44,5 +44,25 @@
     "Can't sleep? Zen mode can't judge you. 😌🌙"
    ]
   }
- }
+ },
+ "reels": [
+  {
+   "date": "2026-11-18",
+   "slot": 0,
+   "kind": "trailer",
+   "hook": "In a world where no piece fits... / One player refused to give up / Combo 4. No mercy."
+  },
+  {
+   "date": "2026-11-18",
+   "slot": 1,
+   "kind": "meme",
+   "hook": "POV: you need ONE tiny 1x1 block / The game: here's a 3x3 / Me, making it work anyway / and then COMBO??"
+  },
+  {
+   "date": "2026-11-18",
+   "slot": 2,
+   "kind": "satisfying",
+   "hook": "The most satisfying 10 seconds of your day / wait for it... / COMBO 4"
+  }
+ ]
 }
