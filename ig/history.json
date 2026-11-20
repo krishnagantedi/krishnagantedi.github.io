@@ -99,6 +99,24 @@
    "slot": 2,
    "kind": "satisfying",
    "hook": "How high can this combo go? / Combo 4... 5... 6... / COMBO 7 (combo count-up)"
+  },
+  {
+   "date": "2026-11-21",
+   "slot": 0,
+   "kind": "trailer",
+   "hook": "The board was almost full... / Don't... place it... THERE / It's not over. COMBO 3. (horror-movie format)"
+  },
+  {
+   "date": "2026-11-21",
+   "slot": 1,
+   "kind": "meme",
+   "hook": "Dad: \"What's so special in this game?\" / Dad, 2 hours later: / \"Beta, don't disturb. I'm on level 62\""
+  },
+  {
+   "date": "2026-11-21",
+   "slot": 2,
+   "kind": "satisfying",
+   "hook": "Pick a favourite: Clear 1 / Clear 2 / Clear 3 (comment-your-pick)"
   }
  ]
 }
