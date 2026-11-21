@@ -117,6 +117,24 @@
    "slot": 2,
    "kind": "satisfying",
    "hook": "Pick a favourite: Clear 1 / Clear 2 / Clear 3 (comment-your-pick)"
+  },
+  {
+   "date": "2026-11-22",
+   "slot": 0,
+   "kind": "trailer",
+   "hook": "Order! Order! The board is FULL / Objection! That line clears / Combo 3. Case closed. (courtroom-drama format)"
+  },
+  {
+   "date": "2026-11-22",
+   "slot": 1,
+   "kind": "meme",
+   "hook": "Teacher: why is your homework incomplete? / Me: I was busy completing LINES, ma'am / Lines completed ✅ Homework ❌"
+  },
+  {
+   "date": "2026-11-22",
+   "slot": 2,
+   "kind": "satisfying",
+   "hook": "Rate this clear from 1 to 10 / ...still counting? / Okay, that's an 11 (rate-it)"
   }
  ]
 }
