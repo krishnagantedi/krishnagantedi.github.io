@@ -135,6 +135,24 @@
    "slot": 2,
    "kind": "satisfying",
    "hook": "Rate this clear from 1 to 10 / ...still counting? / Okay, that's an 11 (rate-it)"
+  },
+  {
+   "date": "2026-11-23",
+   "slot": 0,
+   "kind": "trailer",
+   "hook": "Villain: \"No piece will EVER fit here.\" / The hero says nothing... / COMBO 5. / Villain: \"...\" (villain-monologue format)"
+  },
+  {
+   "date": "2026-11-23",
+   "slot": 1,
+   "kind": "meme",
+   "hook": "Friend: \"Bro, I'm outside. Come down!\" / Me: \"2 minutes da, wearing shoes\" / 25 minutes later: still on COMBO 4"
+  },
+  {
+   "date": "2026-11-23",
+   "slot": 2,
+   "kind": "satisfying",
+   "hook": "Guess where this piece goes / ...right there / Combo 4 (guess-the-move)"
   }
  ]
 }
