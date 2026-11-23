@@ -153,6 +153,24 @@
    "slot": 2,
    "kind": "satisfying",
    "hook": "Guess where this piece goes / ...right there / Combo 4 (guess-the-move)"
+  },
+  {
+   "date": "2026-11-24",
+   "slot": 0,
+   "kind": "trailer",
+   "hook": "Pre-interval scene. Board almost full... / One last piece. One last chance. / INTERVAL: COMBO 5 / Second half: COMBO 6 (interval-cliffhanger format)"
+  },
+  {
+   "date": "2026-11-24",
+   "slot": 1,
+   "kind": "meme",
+   "hook": "Battery: 2%, Charger: other room / Me: one more clear first / Combo 3 ✅ Phone: 💀"
+  },
+  {
+   "date": "2026-11-24",
+   "slot": 2,
+   "kind": "satisfying",
+   "hook": "Sound on for this one 🔊 / hear that? / ...and that 🎧 (sound-on)"
   }
  ]
 }
