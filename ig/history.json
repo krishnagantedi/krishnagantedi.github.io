@@ -1,176 +1,194 @@
 {
- "note": "Used hooks and jokes. The nightly producer appends to \"reels\" so hooks and jokes are never repeated. \"days\" holds the image posts used until 18 Nov.",
- "days": {
-  "2026-11-17": {
-   "headlines": [
-    "Play it before anyone else",
-    "100 levels. Be first to play them.",
-    "5 minutes a day. That's all we ask.",
-    "Your garden is waiting"
-   ],
-   "memes": [
-    "Me at 11 PM: 'just one game, then I'll sleep' / Me at 3:12 AM",
-    "Waiting for a 1x1 block like it's salary credit day / the game: here's a 3x3"
-   ],
-   "openers": []
+  "note": "Used hooks and jokes. The nightly producer appends to \"reels\" so hooks and jokes are never repeated. \"days\" holds the image posts used until 18 Nov.",
+  "days": {
+    "2026-11-17": {
+      "headlines": [
+        "Play it before anyone else",
+        "100 levels. Be first to play them.",
+        "5 minutes a day. That's all we ask.",
+        "Your garden is waiting"
+      ],
+      "memes": [
+        "Me at 11 PM: 'just one game, then I'll sleep' / Me at 3:12 AM",
+        "Waiting for a 1x1 block like it's salary credit day / the game: here's a 3x3"
+      ],
+      "openers": []
+    },
+    "2026-11-18": {
+      "headlines": [
+        "Combos that keep growing",
+        "100 levels. Zero boredom.",
+        "Good morning, new high score",
+        "Grow a garden, one line at a time",
+        "Make the blocks yours",
+        "No game over. Just calm."
+      ],
+      "memes": [
+        "The game: \"Here are 3 new pieces 😊\" Me, looking at my board: 💀 / Not one of them fits 🙂",
+        "Me at 8 AM: \"I'll clear just ONE line before getting ready for office\" / Late to office. Board spotless. ✨",
+        "Mom: \"Put the phone down, food is getting cold\" Me, at Combo 3: / One more line, Amma 🙏",
+        "6 PM traffic: *hasn't moved in 40 minutes* Me in the back seat: / Best commute of my life 🌸"
+      ],
+      "openers": [
+        "Combo 2. Combo 3. Combo 4. DAZZLING. 🌸✨",
+        "The audacity of a 3×3 block when I have exactly ONE gap 😭",
+        "100 Adventure levels, 4 chapters, a lot of treasure. 💎",
+        "Good morning ☀️ Chai in one hand, Combo 4 in the other.",
+        "Priorities: sorted. ✨",
+        "Your garden grows while you play. 🌱",
+        "Gather the treasures, clear the lines, let the combo bloom. 💎🌸",
+        "Every Indian mom has said this at least 1,000 times 😂🍛",
+        "Same blocks, your style. 🎨",
+        "Traffic jam? I call it uninterrupted gaming time. 🚗🧩",
+        "No timer. No game over. Just you and the blocks. 🌙",
+        "Can't sleep? Zen mode can't judge you. 😌🌙"
+      ]
+    }
   },
-  "2026-11-18": {
-   "headlines": [
-    "Combos that keep growing",
-    "100 levels. Zero boredom.",
-    "Good morning, new high score",
-    "Grow a garden, one line at a time",
-    "Make the blocks yours",
-    "No game over. Just calm."
-   ],
-   "memes": [
-    "The game: \"Here are 3 new pieces 😊\" Me, looking at my board: 💀 / Not one of them fits 🙂",
-    "Me at 8 AM: \"I'll clear just ONE line before getting ready for office\" / Late to office. Board spotless. ✨",
-    "Mom: \"Put the phone down, food is getting cold\" Me, at Combo 3: / One more line, Amma 🙏",
-    "6 PM traffic: *hasn't moved in 40 minutes* Me in the back seat: / Best commute of my life 🌸"
-   ],
-   "openers": [
-    "Combo 2. Combo 3. Combo 4. DAZZLING. 🌸✨",
-    "The audacity of a 3×3 block when I have exactly ONE gap 😭",
-    "100 Adventure levels, 4 chapters, a lot of treasure. 💎",
-    "Good morning ☀️ Chai in one hand, Combo 4 in the other.",
-    "Priorities: sorted. ✨",
-    "Your garden grows while you play. 🌱",
-    "Gather the treasures, clear the lines, let the combo bloom. 💎🌸",
-    "Every Indian mom has said this at least 1,000 times 😂🍛",
-    "Same blocks, your style. 🎨",
-    "Traffic jam? I call it uninterrupted gaming time. 🚗🧩",
-    "No timer. No game over. Just you and the blocks. 🌙",
-    "Can't sleep? Zen mode can't judge you. 😌🌙"
-   ]
-  }
- },
- "reels": [
-  {
-   "date": "2026-11-18",
-   "slot": 0,
-   "kind": "trailer",
-   "hook": "In a world where no piece fits... / One player refused to give up / Combo 4. No mercy."
-  },
-  {
-   "date": "2026-11-18",
-   "slot": 1,
-   "kind": "meme",
-   "hook": "POV: you need ONE tiny 1x1 block / The game: here's a 3x3 / Me, making it work anyway / and then COMBO??"
-  },
-  {
-   "date": "2026-11-18",
-   "slot": 2,
-   "kind": "satisfying",
-   "hook": "The most satisfying 10 seconds of your day / wait for it... / COMBO 4"
-  },
-  {
-   "date": "2026-11-19",
-   "slot": 0,
-   "kind": "trailer",
-   "hook": "The Heist. Zero space left. / Step 1: find the gap / Step 2: clear the line / Step 3: walk away clean (heist-plan format)"
-  },
-  {
-   "date": "2026-11-19",
-   "slot": 1,
-   "kind": "meme",
-   "hook": "Mom: phone down, sleep now / Me: one more clear, promise / 2 AM: still \"one more\" / No regrets"
-  },
-  {
-   "date": "2026-11-19",
-   "slot": 2,
-   "kind": "satisfying",
-   "hook": "No timer. No game over. / Just lines melting away / Breathe in... / ...and let go (Zen mode)"
-  },
-  {
-   "date": "2026-11-20",
-   "slot": 0,
-   "kind": "trailer",
-   "hook": "Final over. Board almost full... / He's going for BOTH lines! / WHAT A FINISH!! (cricket-commentary format)"
-  },
-  {
-   "date": "2026-11-20",
-   "slot": 1,
-   "kind": "meme",
-   "hook": "Aunty at the wedding: \"Beta, what's your plan?\" / Me: fill the gap, clear the line / Aunty: ...beta, teach me also"
-  },
-  {
-   "date": "2026-11-20",
-   "slot": 2,
-   "kind": "satisfying",
-   "hook": "How high can this combo go? / Combo 4... 5... 6... / COMBO 7 (combo count-up)"
-  },
-  {
-   "date": "2026-11-21",
-   "slot": 0,
-   "kind": "trailer",
-   "hook": "The board was almost full... / Don't... place it... THERE / It's not over. COMBO 3. (horror-movie format)"
-  },
-  {
-   "date": "2026-11-21",
-   "slot": 1,
-   "kind": "meme",
-   "hook": "Dad: \"What's so special in this game?\" / Dad, 2 hours later: / \"Beta, don't disturb. I'm on level 62\""
-  },
-  {
-   "date": "2026-11-21",
-   "slot": 2,
-   "kind": "satisfying",
-   "hook": "Pick a favourite: Clear 1 / Clear 2 / Clear 3 (comment-your-pick)"
-  },
-  {
-   "date": "2026-11-22",
-   "slot": 0,
-   "kind": "trailer",
-   "hook": "Order! Order! The board is FULL / Objection! That line clears / Combo 3. Case closed. (courtroom-drama format)"
-  },
-  {
-   "date": "2026-11-22",
-   "slot": 1,
-   "kind": "meme",
-   "hook": "Teacher: why is your homework incomplete? / Me: I was busy completing LINES, ma'am / Lines completed ✅ Homework ❌"
-  },
-  {
-   "date": "2026-11-22",
-   "slot": 2,
-   "kind": "satisfying",
-   "hook": "Rate this clear from 1 to 10 / ...still counting? / Okay, that's an 11 (rate-it)"
-  },
-  {
-   "date": "2026-11-23",
-   "slot": 0,
-   "kind": "trailer",
-   "hook": "Villain: \"No piece will EVER fit here.\" / The hero says nothing... / COMBO 5. / Villain: \"...\" (villain-monologue format)"
-  },
-  {
-   "date": "2026-11-23",
-   "slot": 1,
-   "kind": "meme",
-   "hook": "Friend: \"Bro, I'm outside. Come down!\" / Me: \"2 minutes da, wearing shoes\" / 25 minutes later: still on COMBO 4"
-  },
-  {
-   "date": "2026-11-23",
-   "slot": 2,
-   "kind": "satisfying",
-   "hook": "Guess where this piece goes / ...right there / Combo 4 (guess-the-move)"
-  },
-  {
-   "date": "2026-11-24",
-   "slot": 0,
-   "kind": "trailer",
-   "hook": "Pre-interval scene. Board almost full... / One last piece. One last chance. / INTERVAL: COMBO 5 / Second half: COMBO 6 (interval-cliffhanger format)"
-  },
-  {
-   "date": "2026-11-24",
-   "slot": 1,
-   "kind": "meme",
-   "hook": "Battery: 2%, Charger: other room / Me: one more clear first / Combo 3 ✅ Phone: 💀"
-  },
-  {
-   "date": "2026-11-24",
-   "slot": 2,
-   "kind": "satisfying",
-   "hook": "Sound on for this one 🔊 / hear that? / ...and that 🎧 (sound-on)"
-  }
- ]
+  "reels": [
+    {
+      "date": "2026-11-18",
+      "slot": 0,
+      "kind": "trailer",
+      "hook": "In a world where no piece fits... / One player refused to give up / Combo 4. No mercy."
+    },
+    {
+      "date": "2026-11-18",
+      "slot": 1,
+      "kind": "meme",
+      "hook": "POV: you need ONE tiny 1x1 block / The game: here's a 3x3 / Me, making it work anyway / and then COMBO??"
+    },
+    {
+      "date": "2026-11-18",
+      "slot": 2,
+      "kind": "satisfying",
+      "hook": "The most satisfying 10 seconds of your day / wait for it... / COMBO 4"
+    },
+    {
+      "date": "2026-11-19",
+      "slot": 0,
+      "kind": "trailer",
+      "hook": "The Heist. Zero space left. / Step 1: find the gap / Step 2: clear the line / Step 3: walk away clean (heist-plan format)"
+    },
+    {
+      "date": "2026-11-19",
+      "slot": 1,
+      "kind": "meme",
+      "hook": "Mom: phone down, sleep now / Me: one more clear, promise / 2 AM: still \"one more\" / No regrets"
+    },
+    {
+      "date": "2026-11-19",
+      "slot": 2,
+      "kind": "satisfying",
+      "hook": "No timer. No game over. / Just lines melting away / Breathe in... / ...and let go (Zen mode)"
+    },
+    {
+      "date": "2026-11-20",
+      "slot": 0,
+      "kind": "trailer",
+      "hook": "Final over. Board almost full... / He's going for BOTH lines! / WHAT A FINISH!! (cricket-commentary format)"
+    },
+    {
+      "date": "2026-11-20",
+      "slot": 1,
+      "kind": "meme",
+      "hook": "Aunty at the wedding: \"Beta, what's your plan?\" / Me: fill the gap, clear the line / Aunty: ...beta, teach me also"
+    },
+    {
+      "date": "2026-11-20",
+      "slot": 2,
+      "kind": "satisfying",
+      "hook": "How high can this combo go? / Combo 4... 5... 6... / COMBO 7 (combo count-up)"
+    },
+    {
+      "date": "2026-11-21",
+      "slot": 0,
+      "kind": "trailer",
+      "hook": "The board was almost full... / Don't... place it... THERE / It's not over. COMBO 3. (horror-movie format)"
+    },
+    {
+      "date": "2026-11-21",
+      "slot": 1,
+      "kind": "meme",
+      "hook": "Dad: \"What's so special in this game?\" / Dad, 2 hours later: / \"Beta, don't disturb. I'm on level 62\""
+    },
+    {
+      "date": "2026-11-21",
+      "slot": 2,
+      "kind": "satisfying",
+      "hook": "Pick a favourite: Clear 1 / Clear 2 / Clear 3 (comment-your-pick)"
+    },
+    {
+      "date": "2026-11-22",
+      "slot": 0,
+      "kind": "trailer",
+      "hook": "Order! Order! The board is FULL / Objection! That line clears / Combo 3. Case closed. (courtroom-drama format)"
+    },
+    {
+      "date": "2026-11-22",
+      "slot": 1,
+      "kind": "meme",
+      "hook": "Teacher: why is your homework incomplete? / Me: I was busy completing LINES, ma'am / Lines completed ✅ Homework ❌"
+    },
+    {
+      "date": "2026-11-22",
+      "slot": 2,
+      "kind": "satisfying",
+      "hook": "Rate this clear from 1 to 10 / ...still counting? / Okay, that's an 11 (rate-it)"
+    },
+    {
+      "date": "2026-11-23",
+      "slot": 0,
+      "kind": "trailer",
+      "hook": "Villain: \"No piece will EVER fit here.\" / The hero says nothing... / COMBO 5. / Villain: \"...\" (villain-monologue format)"
+    },
+    {
+      "date": "2026-11-23",
+      "slot": 1,
+      "kind": "meme",
+      "hook": "Friend: \"Bro, I'm outside. Come down!\" / Me: \"2 minutes da, wearing shoes\" / 25 minutes later: still on COMBO 4"
+    },
+    {
+      "date": "2026-11-23",
+      "slot": 2,
+      "kind": "satisfying",
+      "hook": "Guess where this piece goes / ...right there / Combo 4 (guess-the-move)"
+    },
+    {
+      "date": "2026-11-24",
+      "slot": 0,
+      "kind": "trailer",
+      "hook": "Pre-interval scene. Board almost full... / One last piece. One last chance. / INTERVAL: COMBO 5 / Second half: COMBO 6 (interval-cliffhanger format)"
+    },
+    {
+      "date": "2026-11-24",
+      "slot": 1,
+      "kind": "meme",
+      "hook": "Battery: 2%, Charger: other room / Me: one more clear first / Combo 3 ✅ Phone: 💀"
+    },
+    {
+      "date": "2026-11-24",
+      "slot": 2,
+      "kind": "satisfying",
+      "hook": "Sound on for this one 🔊 / hear that? / ...and that 🎧 (sound-on)"
+    },
+    {
+      "date": "2026-11-25",
+      "slot": 0,
+      "kind": "trailer",
+      "hook": "Everyone said the board was finished... / Then the hero walked in / in slow motion / COMBO 5. Mass entry. (slow-motion hero-entry format)"
+    },
+    {
+      "date": "2026-11-25",
+      "slot": 1,
+      "kind": "meme",
+      "hook": "Manager on the call: \"Any updates?\" / Me, on mute: / placing the last piece / \"Yes sir, almost done\" ✅"
+    },
+    {
+      "date": "2026-11-25",
+      "slot": 2,
+      "kind": "satisfying",
+      "hook": "Count the clears with me / one... / two... / three... / ...and breathe (count-along)"
+    }
+  ]
 }
